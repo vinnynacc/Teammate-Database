@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Meet the Team • Teammate Database</title>
+<link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+  <header class="wrap">
+    <h1>Meet the Team</h1>
+    <p>Browse Lending Heights teammates. Filter by role or licensed state; click any card for full details.</p>
+    <div class="controls">
+      <input id="q" type="search" placeholder="Search name, role, NMLS…">
+      <select id="role">
+        <option value="">All roles</option>
+        <option value="lo">Loan Originators</option>
+        <option value="ops">Operations</option>
+        <option value="lead">Leadership</option>
+      </select>
+      <select id="state">
+        <option value="">All states</option>
+      </select>
+      <select id="sort">
+        <option value="order">Sort: Default</option>
+        <option value="name">Sort: Name A–Z</option>
+        <option value="name-desc">Sort: Name Z–A</option>
+      </select>
+    </div>
+  </header>
+  <main class="wrap">
+    <div id="grid" class="grid"></div>
+  </main>
+<script>
+  const BASE = "https://vinnynacc.github.io/Teammate-Database/images/";
+</script>
+<script defer src="./app.js"></script>
+</body>
+</html>
