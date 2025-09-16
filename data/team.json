@@ -1,0 +1,648 @@
+[
+  {
+    "order": 1,
+    "slug": "jason-cecco",
+    "name": "Jason Cecco",
+    "role": "lead",
+    "jobTitle": "President",
+    "nmls": "NMLS#397933",
+    "phone": "+14843195473",
+    "email": "jcecco@lhloans.com",
+    "photoFile": "Jason%20Cecco.png",
+    "states": [],
+    "links": {
+      "apply": "",
+      "calendly": "",
+      "linkedin": "",
+      "reviews": "",
+      "personalSite": ""
+    }
+  },
+  {
+    "order": 2,
+    "slug": "kristen-cecco",
+    "name": "Kristen Cecco",
+    "role": "lead",
+    "jobTitle": "COO",
+    "nmls": "NMLS#1416484",
+    "phone": "+17249002308",
+    "email": "kcecco@lhloans.com",
+    "photoFile": "Kristen%20Cecco.png",
+    "states": [],
+    "links": {
+      "apply": "",
+      "calendly": "",
+      "linkedin": "",
+      "reviews": "",
+      "personalSite": ""
+    }
+  },
+  {
+    "order": 3,
+    "slug": "robyn-stikkel",
+    "name": "Robyn Stikkel",
+    "role": "lead",
+    "jobTitle": "Disclosure Specialist",
+    "nmls": "NMLS#1676649",
+    "phone": "+14124963474",
+    "email": "rpoulich@lhloans.com",
+    "photoFile": "Robyn%20Stikkel.png",
+    "states": [],
+    "links": {
+      "apply": "",
+      "calendly": "",
+      "linkedin": "",
+      "reviews": "",
+      "personalSite": ""
+    }
+  },
+  {
+    "order": 4,
+    "slug": "lea-steadman",
+    "name": "Lea Steadman",
+    "role": "lo",
+    "jobTitle": "Senior Loan Officer",
+    "nmls": "NMLS#1482256",
+    "phone": "+17245161899",
+    "email": "lsteadman@lhloans.com",
+    "photoFile": "Lea%20Steadman.png",
+    "states": [],
+    "links": {
+      "apply": "",
+      "calendly": "",
+      "linkedin": "",
+      "reviews": "",
+      "personalSite": ""
+    }
+  },
+  {
+    "order": 5,
+    "slug": "dana-prill",
+    "name": "Dana Prill",
+    "role": "lead",
+    "jobTitle": "Closing Specialist",
+    "nmls": "NMLS#1754216",
+    "phone": "+17249002307",
+    "email": "dprill@lhloans.com",
+    "photoFile": "Dana%20Prill.png",
+    "states": [],
+    "links": {
+      "apply": "",
+      "calendly": "",
+      "linkedin": "",
+      "reviews": "",
+      "personalSite": ""
+    }
+  },
+  {
+    "order": 6,
+    "slug": "vinny-naccarelli",
+    "name": "Vinny Naccarelli",
+    "role": "lead",
+    "jobTitle": "VP Talent Acquisitions",
+    "nmls": "nan",
+    "phone": "+14127350277",
+    "email": "vnaccarelli@lhloans.com",
+    "photoFile": "Vinny%20Naccarelli.png",
+    "states": [],
+    "links": {
+      "apply": "",
+      "calendly": "",
+      "linkedin": "",
+      "reviews": "",
+      "personalSite": ""
+    }
+  },
+  {
+    "order": 7,
+    "slug": "kenaniah-stikkel",
+    "name": "Kenaniah Stikkel",
+    "role": "lo",
+    "jobTitle": "Loan Officer",
+    "nmls": "NMLS#1939463",
+    "phone": "+17242443872",
+    "email": "kstikkel@lhloans.com",
+    "photoFile": "Kenaniah%20Stikkel.png",
+    "states": [],
+    "links": {
+      "apply": "",
+      "calendly": "",
+      "linkedin": "",
+      "reviews": "",
+      "personalSite": ""
+    }
+  },
+  {
+    "order": 8,
+    "slug": "tori-quintana",
+    "name": "Tori Quintana",
+    "role": "lead",
+    "jobTitle": "Processing Team Lead",
+    "nmls": "nan",
+    "phone": "+17249002309",
+    "email": "vquintana@lhloans.com",
+    "photoFile": "Tori%20Quintana.png",
+    "states": [],
+    "links": {
+      "apply": "",
+      "calendly": "",
+      "linkedin": "",
+      "reviews": "",
+      "personalSite": ""
+    }
+  },
+  {
+    "order": 9,
+    "slug": "beth-haushalter",
+    "name": "Beth Haushalter",
+    "role": "ops",
+    "jobTitle": "Processor",
+    "nmls": "nan",
+    "phone": "+17249002309",
+    "email": "bhaushalter@lhloans.com",
+    "photoFile": "Beth%20Haushalter.png",
+    "states": [],
+    "links": {
+      "apply": "",
+      "calendly": "",
+      "linkedin": "",
+      "reviews": "",
+      "personalSite": ""
+    }
+  },
+  {
+    "order": 10,
+    "slug": "erica-brent",
+    "name": "Erica Brent",
+    "role": "lead",
+    "jobTitle": "LOA",
+    "nmls": "NMLS#2308412",
+    "phone": "+14126054368",
+    "email": "ebrent@lhloans.com",
+    "photoFile": "Erica%20Brent.png",
+    "states": [],
+    "links": {
+      "apply": "",
+      "calendly": "",
+      "linkedin": "",
+      "reviews": "",
+      "personalSite": ""
+    }
+  },
+  {
+    "order": 11,
+    "slug": "benji-orlowski",
+    "name": "Benji Orlowski",
+    "role": "lo",
+    "jobTitle": "Loan Officer",
+    "nmls": "NMLS#2348120",
+    "phone": "+17249002309",
+    "email": "aorlowski@lhloans.com",
+    "photoFile": "Benji%20Orlowski.png",
+    "states": [],
+    "links": {
+      "apply": "",
+      "calendly": "",
+      "linkedin": "",
+      "reviews": "",
+      "personalSite": ""
+    }
+  },
+  {
+    "order": 12,
+    "slug": "andrew-slavin",
+    "name": "Andrew Slavin",
+    "role": "lo",
+    "jobTitle": "Senior Loan Officer",
+    "nmls": "NMLS#2107695",
+    "phone": "+17245945483",
+    "email": "aslavin@lhloans.com",
+    "photoFile": "Andy%20Slavin.png",
+    "states": [],
+    "links": {
+      "apply": "",
+      "calendly": "",
+      "linkedin": "",
+      "reviews": "",
+      "personalSite": ""
+    }
+  },
+  {
+    "order": 13,
+    "slug": "ann-sullivan",
+    "name": "Ann Sullivan",
+    "role": "lead",
+    "jobTitle": "Team Lead/ Mortgage Advisor",
+    "nmls": "NMLS#1093568",
+    "phone": "+18148237355",
+    "email": "asullivan@lhloans.com",
+    "photoFile": "Ann%20Sullivan.png",
+    "states": [],
+    "links": {
+      "apply": "",
+      "calendly": "",
+      "linkedin": "",
+      "reviews": "",
+      "personalSite": ""
+    }
+  },
+  {
+    "order": 14,
+    "slug": "daniel-garrigan",
+    "name": "Daniel Garrigan",
+    "role": "lo",
+    "jobTitle": "Loan Officer",
+    "nmls": "NMLS#1990879",
+    "phone": "+17245947101",
+    "email": "dgarrigan@lhloans.com",
+    "photoFile": "Dan%20Giannetti.png",
+    "states": [],
+    "links": {
+      "apply": "",
+      "calendly": "",
+      "linkedin": "",
+      "reviews": "",
+      "personalSite": ""
+    }
+  },
+  {
+    "order": 15,
+    "slug": "matthew-pfrommer",
+    "name": "Matthew Pfrommer",
+    "role": "lead",
+    "jobTitle": "Director of Operations",
+    "nmls": "nan",
+    "phone": "+17249002309",
+    "email": "mpfrommer@lhloans.com",
+    "photoFile": "Matt%20Pfrommer.png",
+    "states": [],
+    "links": {
+      "apply": "",
+      "calendly": "",
+      "linkedin": "",
+      "reviews": "",
+      "personalSite": ""
+    }
+  },
+  {
+    "order": 16,
+    "slug": "daniel-lariscy",
+    "name": "Daniel Lariscy",
+    "role": "lo",
+    "jobTitle": "Branch Manager/ Mortgage Advisor",
+    "nmls": "NMLS#2115404",
+    "phone": "+19126633274",
+    "email": "dlariscy@lhloans.com",
+    "photoFile": "Daniel%20Lariscy.png",
+    "states": [],
+    "links": {
+      "apply": "",
+      "calendly": "",
+      "linkedin": "",
+      "reviews": "",
+      "personalSite": ""
+    }
+  },
+  {
+    "order": 17,
+    "slug": "cameron-watson",
+    "name": "Cameron Watson",
+    "role": "lo",
+    "jobTitle": "Mortgage Advisor",
+    "nmls": "NMLS#659073",
+    "phone": "+19123419743",
+    "email": "cwatson@lhloans.com",
+    "photoFile": "Cameron%20Watson.png",
+    "states": [],
+    "links": {
+      "apply": "",
+      "calendly": "",
+      "linkedin": "",
+      "reviews": "",
+      "personalSite": ""
+    }
+  },
+  {
+    "order": 18,
+    "slug": "todd-hummel",
+    "name": "Todd Hummel",
+    "role": "lo",
+    "jobTitle": "Loan Officer",
+    "nmls": "NMLS#747940",
+    "phone": "+16104014071",
+    "email": "thummel@lhloans.com",
+    "photoFile": "Todd%20Hummel.png",
+    "states": [],
+    "links": {
+      "apply": "",
+      "calendly": "",
+      "linkedin": "",
+      "reviews": "",
+      "personalSite": ""
+    }
+  },
+  {
+    "order": 19,
+    "slug": "colin-vilsack",
+    "name": "Colin Vilsack",
+    "role": "ops",
+    "jobTitle": "Processor",
+    "nmls": "NMLS#1710047",
+    "phone": "+14128745401",
+    "email": "cvilsack@lhloans.com",
+    "photoFile": "Colin%20Vilsack.png",
+    "states": [],
+    "links": {
+      "apply": "",
+      "calendly": "",
+      "linkedin": "",
+      "reviews": "",
+      "personalSite": ""
+    }
+  },
+  {
+    "order": 20,
+    "slug": "stephanie-turner",
+    "name": "Stephanie Turner",
+    "role": "lo",
+    "jobTitle": "Branch Manager/ Mortgage Advisor",
+    "nmls": "NMLS#482075",
+    "phone": "+18144391655",
+    "email": "sturner@lhloans.com",
+    "photoFile": "Stephanie%20Turner.png",
+    "states": [],
+    "links": {
+      "apply": "",
+      "calendly": "",
+      "linkedin": "",
+      "reviews": "",
+      "personalSite": ""
+    }
+  },
+  {
+    "order": 21,
+    "slug": "alysha-hunter",
+    "name": "Alysha Hunter",
+    "role": "ops",
+    "jobTitle": "LOA",
+    "nmls": "nan",
+    "phone": "+13027572521",
+    "email": "ahunter@lhloans.com",
+    "photoFile": "Alysha%20Hunter.png",
+    "states": [],
+    "links": {
+      "apply": "",
+      "calendly": "",
+      "linkedin": "",
+      "reviews": "",
+      "personalSite": ""
+    }
+  },
+  {
+    "order": 22,
+    "slug": "daniel-giannetti",
+    "name": "Daniel Giannetti",
+    "role": "lo",
+    "jobTitle": "Loan Officer",
+    "nmls": "NMLS#146719",
+    "phone": "+14124435265",
+    "email": "dgiannetti@lhloans.com",
+    "photoFile": "Dana%20Prill.png",
+    "states": [],
+    "links": {
+      "apply": "",
+      "calendly": "",
+      "linkedin": "",
+      "reviews": "",
+      "personalSite": ""
+    }
+  },
+  {
+    "order": 23,
+    "slug": "heather-walters",
+    "name": "Heather Walters",
+    "role": "ops",
+    "jobTitle": "Processor",
+    "nmls": "nan",
+    "phone": "+17249963425",
+    "email": "hwalters@lhloans.com",
+    "photoFile": "Heather%20Walters.png",
+    "states": [],
+    "links": {
+      "apply": "",
+      "calendly": "",
+      "linkedin": "",
+      "reviews": "",
+      "personalSite": ""
+    }
+  },
+  {
+    "order": 24,
+    "slug": "tina-durst",
+    "name": "Tina Durst",
+    "role": "lo",
+    "jobTitle": "Loan Officer",
+    "nmls": "NMLS#2630159",
+    "phone": "+17247718261",
+    "email": "tdurst@lhloans.com",
+    "photoFile": "Tina%20Durst.png",
+    "states": [],
+    "links": {
+      "apply": "",
+      "calendly": "",
+      "linkedin": "",
+      "reviews": "",
+      "personalSite": ""
+    }
+  },
+  {
+    "order": 25,
+    "slug": "michael-evans",
+    "name": "Michael Evans",
+    "role": "lo",
+    "jobTitle": "Branch Manager/ Mortgage Advisor",
+    "nmls": "NMLS#1073263",
+    "phone": "+17248845220",
+    "email": "mevans@lhloans.com",
+    "photoFile": "Michael%20Evans.png",
+    "states": [],
+    "links": {
+      "apply": "",
+      "calendly": "",
+      "linkedin": "",
+      "reviews": "",
+      "personalSite": ""
+    }
+  },
+  {
+    "order": 26,
+    "slug": "brandon-bartoldi",
+    "name": "Brandon Bartoldi",
+    "role": "ops",
+    "jobTitle": "LOA",
+    "nmls": "nan",
+    "phone": "",
+    "email": "bbartoldi@lhloans.com",
+    "photoFile": "Brandon%20Bartoldi.png",
+    "states": [],
+    "links": {
+      "apply": "",
+      "calendly": "",
+      "linkedin": "",
+      "reviews": "",
+      "personalSite": ""
+    }
+  },
+  {
+    "order": 27,
+    "slug": "jim-clarke",
+    "name": "Jim Clarke",
+    "role": "lo",
+    "jobTitle": "Branch Manager/ Mortgage Advisor",
+    "nmls": "NMLS#134944",
+    "phone": "+14125271728",
+    "email": "jclarke@lhloans.com",
+    "photoFile": "Jim%20Clarke.png",
+    "states": [],
+    "links": {
+      "apply": "",
+      "calendly": "",
+      "linkedin": "",
+      "reviews": "",
+      "personalSite": ""
+    }
+  },
+  {
+    "order": 28,
+    "slug": "tracy-harris",
+    "name": "Tracy Harris",
+    "role": "lo",
+    "jobTitle": "Loan Officer",
+    "nmls": "NMLS#2631778",
+    "phone": "+17243211170",
+    "email": "tharris@lhloans.com",
+    "photoFile": "Tracy%20Harris.png",
+    "states": [],
+    "links": {
+      "apply": "",
+      "calendly": "",
+      "linkedin": "",
+      "reviews": "",
+      "personalSite": ""
+    }
+  },
+  {
+    "order": 29,
+    "slug": "nicole-herget",
+    "name": "Nicole Herget",
+    "role": "lo",
+    "jobTitle": "Loan Officer",
+    "nmls": "NMLS#2485696",
+    "phone": "+14126801263",
+    "email": "NHerget@lhloans.com",
+    "photoFile": "Nicole%20Herget.png",
+    "states": [],
+    "links": {
+      "apply": "",
+      "calendly": "",
+      "linkedin": "",
+      "reviews": "",
+      "personalSite": ""
+    }
+  },
+  {
+    "order": 30,
+    "slug": "jimmy-bufalino",
+    "name": "Jimmy Bufalino",
+    "role": "lo",
+    "jobTitle": "Loan Officer",
+    "nmls": "NMLS#2683598",
+    "phone": "+18144646905",
+    "email": "jimmy@prospermtgs.com",
+    "photoFile": "Jimmy%20Bufalino.png",
+    "states": [],
+    "links": {
+      "apply": "",
+      "calendly": "",
+      "linkedin": "",
+      "reviews": "",
+      "personalSite": ""
+    }
+  },
+  {
+    "order": 31,
+    "slug": "christopher-kelly",
+    "name": "Christopher Kelly",
+    "role": "lo",
+    "jobTitle": "Loan Officer",
+    "nmls": "NMLS#2681568",
+    "phone": "+14129736323",
+    "email": "ckelly@lhloans.com",
+    "photoFile": "Christopher%20Kelly.png",
+    "states": [],
+    "links": {
+      "apply": "",
+      "calendly": "",
+      "linkedin": "",
+      "reviews": "",
+      "personalSite": ""
+    }
+  },
+  {
+    "order": 32,
+    "slug": "sean-mchugh",
+    "name": "Sean McHugh",
+    "role": "lo",
+    "jobTitle": "Branch Manager/ Mortgage Advisor",
+    "nmls": "NMLS#2691312",
+    "phone": "+12482079785",
+    "email": "smchugh@championlendinggroup.com",
+    "photoFile": "Sean%20McHugh.png",
+    "states": [],
+    "links": {
+      "apply": "",
+      "calendly": "",
+      "linkedin": "",
+      "reviews": "",
+      "personalSite": ""
+    }
+  },
+  {
+    "order": 33,
+    "slug": "thomas-mellett",
+    "name": "Thomas Mellett",
+    "role": "lo",
+    "jobTitle": "Branch Manager",
+    "nmls": "NMLS#146418",
+    "phone": "+12676881973",
+    "email": "tom@keswickmtg.com",
+    "photoFile": "Tom%20Mellett.png",
+    "states": [],
+    "links": {
+      "apply": "",
+      "calendly": "",
+      "linkedin": "",
+      "reviews": "",
+      "personalSite": ""
+    }
+  },
+  {
+    "order": 34,
+    "slug": "anthony-curtis",
+    "name": "Anthony Curtis",
+    "role": "ops",
+    "jobTitle": "Branch Manager",
+    "nmls": "nan",
+    "phone": "+18142339425",
+    "email": "acurtis@lhloans.com",
+    "photoFile": "Anthony%20Curtis.png",
+    "states": [],
+    "links": {
+      "apply": "",
+      "calendly": "",
+      "linkedin": "",
+      "reviews": "",
+      "personalSite": ""
+    }
+  }
+]
