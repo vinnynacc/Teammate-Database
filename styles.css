@@ -13,6 +13,7 @@ input[type="search"],select{padding:10px 12px;border:1px solid #d1d5db;border-ra
 .meta{padding:14px 16px 18px;text-align:center}
 .name{font-weight:700;margin:0 0 4px;font-size:18px}
 .role{margin:0;color:var(--lh-muted);font-size:14px}
+.meta .location{margin:4px 0;color:var(--lh-muted);font-size:13px}
 .actions{display:flex;gap:12px;justify-content:center;margin-top:10px}
 .actions a{display:inline-flex;align-items:center;justify-content:center;width:28px;height:28px;border-radius:999px;border:1px solid #e5e7eb;text-decoration:none}
 .actions a:hover{border-color:var(--lh-blue)}
@@ -28,5 +29,31 @@ a.cardlink{display:block;color:inherit;text-decoration:none}
 .profile .links{display:flex;gap:10px;flex-wrap:wrap;margin:8px 0 16px}
 .linkbtn{border:1px solid #d1d5db;border-radius:999px;padding:6px 10px;text-decoration:none;color:#111}
 .linkbtn:hover{border-color:var(--lh-blue)}
+.profile section{margin-top:24px}
+.profile section h3{margin:0 0 8px}
+.error{color:#dc2626;font-weight:600}
 .back{display:inline-block;margin:12px 0 16px;text-decoration:none;color:var(--lh-blue)}
 @media print {.controls,.back,.links,.actions{display:none} .profile{padding:0}}
+.admin-body{background:#f3f4f6}
+.admin{display:flex;flex-direction:column;gap:24px;padding-top:40px;padding-bottom:40px}
+.admin-card{background:#fff;border-radius:16px;padding:24px 28px;box-shadow:0 12px 40px rgba(15,23,42,.08)}
+.admin-card h1{margin-top:0;font-size:28px}
+.admin-card form{display:flex;flex-direction:column;gap:16px}
+.admin-card label{font-weight:600;font-size:14px;color:var(--lh-muted);display:flex;flex-direction:column;gap:6px}
+.admin-card input,.admin-card textarea,.admin-card select{padding:10px 12px;border:1px solid #d1d5db;border-radius:10px;font:inherit;color:var(--lh-text)}
+.admin-card textarea{resize:vertical}
+.admin-card button{align-self:flex-start;background:var(--lh-blue);color:#fff;border:none;border-radius:10px;padding:10px 16px;font-weight:600;cursor:pointer}
+.admin-card button:hover{opacity:.9}
+.admin-panel-header{display:flex;justify-content:space-between;align-items:center;margin-bottom:20px}
+.admin-layout{display:grid;gap:24px}
+.admin-layout aside{display:flex;flex-direction:column;gap:12px}
+.admin-layout .stack{gap:8px}
+.admin-layout button.danger{background:#dc2626}
+.admin-layout button.danger:disabled{opacity:.6;cursor:not-allowed}
+.grid-2{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:12px}
+.form-actions{display:flex;align-items:center;gap:16px}
+.form-hint{color:#dc2626;font-size:14px;margin:0}
+.form-hint[role="status"]{color:var(--lh-blue)}
+.admin-card fieldset{border:1px solid #e5e7eb;border-radius:12px;padding:12px 16px;display:grid;gap:12px}
+.admin-card fieldset legend{font-weight:700;padding:0 6px}
+@media(min-width:900px){.admin-layout{grid-template-columns:260px 1fr}}
