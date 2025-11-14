@@ -1,11 +1,38 @@
 // app.js
 (async function () {
+  // --- Base paths for GitHub Pages ---
   const repoBase = location.pathname.includes('/Teammate-Database/')
     ? '/Teammate-Database'
     : '';
-  const dataUrl = repoBase + '/data/team.json';
-  const res = await fetch(dataUrl);
-  const TEAM = await res.json();
+
+  // Image base used when building <img src>
+  const BASE = 'https://vinnynacc.github.io/Teammate-Database/images/';
+
+  // We’ll try these JSON files in order (keeps you flexible)
+  const DATA_CANDIDATES = [
+    repoBase + '/data/team.json',
+    repoBase + '/data/teammates.json',
+  ];
+
+  // Fetch team data with fallback + cache-bust
+  let TEAM = [];
+  {
+    let ok = null;
+    for (const url of DATA_CANDIDATES) {
+      try {
+        const r = await fetch(url + '?v=' + Date.now(), { cache: 'no-store' });
+        if (r.ok) { ok = r; break; }
+      } catch (_) {}
+    }
+    if (!ok) {
+      console.error('No team data found at', DATA_CANDIDATES);
+      // Render a friendly message if the grid exists
+      const g = document.querySelector('#grid');
+      if (g) g.innerHTML = '<p class="error">Unable to load team data.</p>';
+      return;
+    }
+    TEAM = await ok.json();
+  }
 
   const $ = (s, root = document) => root.querySelector(s);
   const $$ = (s, root = document) => Array.from(root.querySelectorAll(s));
