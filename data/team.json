@@ -644,5 +644,24 @@
       "reviews": "",
       "personalSite": ""
     }
+  },
+  {
+  "order": 35,
+  "slug": "cody-hedges",
+  "name": "Cody Hedges",
+  "role": "lo",
+  "jobTitle": "Branch Manager",
+  "nmls": "NMLS#1699524",
+  "phone": "+18064455344",
+  "email": "chedges@lhloans.com",
+  "photoFile": "Cody%20Hedges.png",
+  "states": ["TX"],
+  "links": {
+    "apply": "",
+    "calendly": "",
+    "linkedin": "",
+    "reviews": "",
+    "personalSite": ""
   }
+}
 ]
