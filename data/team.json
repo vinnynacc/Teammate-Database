@@ -646,22 +646,46 @@
     }
   },
   {
-  "order": 35,
-  "slug": "cody-hedges",
-  "name": "Cody Hedges",
-  "role": "lo",
-  "jobTitle": "Branch Manager",
-  "nmls": "NMLS#1699524",
-  "phone": "+18064455344",
-  "email": "chedges@lhloans.com",
-  "photoFile": "Cody%20Hedges.png",
-  "states": ["TX"],
-  "links": {
-    "apply": "",
-    "calendly": "",
-    "linkedin": "",
-    "reviews": "",
-    "personalSite": ""
+    "order": 35,
+    "slug": "cody-hedges",
+    "name": "Cody Hedges",
+    "role": "lo",
+    "jobTitle": "Branch Manager",
+    "nmls": "NMLS#1699524",
+    "phone": "+18064455344",
+    "email": "chedges@lhloans.com",
+    "photoFile": "Cody%20Hedges.png",
+    "states": [
+      "TX"
+    ],
+    "links": {
+      "apply": "",
+      "calendly": "",
+      "linkedin": "",
+      "reviews": "",
+      "personalSite": ""
+    }
+  },
+  {
+    "slug": "anthony-gennuso",
+    "name": "Anthony Gennuso",
+    "role": "lo",
+    "jobTitle": "Branch Manager",
+    "nmls": "NMLS#1035994",
+    "phone": "+17243505326",
+    "email": "agennuso@umgmortgage.com",
+    "photoFile": "Anthony%20Gennuso.png",
+    "states": [
+      "PA",
+      "FL"
+    ],
+    "links": {
+      "apply": "",
+      "calendly": "",
+      "linkedin": "",
+      "reviews": "",
+      "personalSite": ""
+    },
+    "order": 36
   }
-}
 ]
