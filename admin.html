@@ -1,0 +1,87 @@
+<!-- admin.html -->
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Teammate Admin</title>
+  <link rel="stylesheet" href="./styles.css" />
+  <style>
+    .admin-wrap{max-width:820px;margin:32px auto;padding:24px;border-radius:16px;background:#fff;box-shadow:0 8px 30px rgba(0,0,0,.06)}
+    .row{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+    label{display:flex;flex-direction:column;font-weight:600;color:#6b7280;margin-bottom:10px}
+    input,select{padding:10px 12px;border:1px solid #d1d5db;border-radius:10px;font:inherit}
+    button{background:#0058A9;color:#fff;border:0;border-radius:10px;padding:10px 16px;font-weight:700;cursor:pointer}
+    .muted{color:#6b7280;font-size:13px}
+    .ok{color:#15803d}.warn{color:#b45309}.err{color:#dc2626}
+  </style>
+</head>
+<body>
+  <main class="admin-wrap">
+    <h1>Add a Teammate</h1>
+    <p class="muted">This writes to <code>data/team.json</code> on <code>main</code>. Token is stored locally on this browser only.</p>
+
+    <details open>
+      <summary><strong>GitHub token</strong></summary>
+      <label>Token
+        <input id="ghToken" type="password" placeholder="Paste your GitHub PAT" />
+      </label>
+      <div style="display:flex;gap:8px;align-items:center;margin-bottom:16px">
+        <button id="saveToken" type="button">Save token</button>
+        <button id="clearToken" type="button">Clear</button>
+        <span id="tokenStatus" class="muted"></span>
+      </div>
+    </details>
+
+    <form id="newTeammate" autocomplete="off">
+      <div class="row">
+        <label>Slug* <input name="slug" required placeholder="cody-hedges" pattern="[a-z0-9-]+" /></label>
+        <label>Name* <input name="name" required placeholder="Cody Hedges" /></label>
+      </div>
+
+      <div class="row">
+        <label>Role*
+          <select name="role" required>
+            <option value="lo">Loan Officer</option>
+            <option value="ops">Operations</option>
+            <option value="lead">Leadership</option>
+          </select>
+        </label>
+        <label>Job Title <input name="jobTitle" placeholder="Branch Manager" /></label>
+      </div>
+
+      <div class="row">
+        <label>NMLS <input name="nmls" placeholder="1699524 or NMLS#1699524" /></label>
+        <label>Phone (E.164) <input name="phone" placeholder="+18064455344" /></label>
+      </div>
+
+      <div class="row">
+        <label>Email <input name="email" type="email" placeholder="chedges@lhloans.com" /></label>
+        <label>Photo filename* <input name="photoFile" required placeholder="Cody%20Hedges.png" /></label>
+      </div>
+
+      <label>States (comma or space separated) <input name="states" placeholder="TX or PA,OH" /></label>
+
+      <details>
+        <summary class="muted">Optional links</summary>
+        <div class="row">
+          <label>Apply <input name="apply" type="url" /></label>
+          <label>Calendly <input name="calendly" type="url" /></label>
+        </div>
+        <div class="row">
+          <label>LinkedIn <input name="linkedin" type="url" /></label>
+          <label>Reviews <input name="reviews" type="url" /></label>
+        </div>
+        <label>Personal Site <input name="personalSite" type="url" /></label>
+      </details>
+
+      <div style="display:flex;gap:12px;align-items:center;margin-top:14px">
+        <button type="submit">Create teammate</button>
+        <span id="status" class="muted"></span>
+      </div>
+    </form>
+  </main>
+
+  <script defer src="./admin.js"></script>
+</body>
+</html>
