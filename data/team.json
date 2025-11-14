@@ -687,5 +687,26 @@
       "personalSite": ""
     },
     "order": 36
+  },
+  {
+    "slug": "kaitlyn-knaus",
+    "name": "Kaitlyn Knaus",
+    "role": "lo",
+    "jobTitle": "Loan Officer",
+    "nmls": "NMLS#2773706",
+    "phone": "+12488776129",
+    "email": "kknaus@championlendinggroup.com",
+    "photoFile": "Kaitlyn%20Knaus.png",
+    "states": [
+      "MI"
+    ],
+    "links": {
+      "apply": "",
+      "calendly": "",
+      "linkedin": "",
+      "reviews": "",
+      "personalSite": ""
+    },
+    "order": 37
   }
 ]
