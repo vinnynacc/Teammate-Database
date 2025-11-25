@@ -708,5 +708,26 @@
       "personalSite": ""
     },
     "order": 37
+  },
+  {
+    "slug": "josh-niehaus",
+    "name": "Josh Niehaus",
+    "role": "lo",
+    "jobTitle": "Mortgage Loan Officer",
+    "nmls": "NMLS#2624485",
+    "phone": "+19099124607",
+    "email": "jniehaus@lhloans.com",
+    "photoFile": "Josh%20Niehaus.png",
+    "states": [
+      "CA"
+    ],
+    "links": {
+      "apply": "",
+      "calendly": "",
+      "linkedin": "",
+      "reviews": "",
+      "personalSite": ""
+    },
+    "order": 38
   }
 ]
