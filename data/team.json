@@ -771,5 +771,24 @@
       "personalSite": ""
     },
     "order": 40
+  },
+  {
+    "slug": "kevin-breinig",
+    "name": "Kevin Breinig",
+    "role": "ops",
+    "jobTitle": "Processor II",
+    "nmls": "NMLS#n/a",
+    "phone": "+17249002309",
+    "email": "kbreinig@lhloans.com",
+    "photoFile": "Kevin%20Breinig.png",
+    "states": [],
+    "links": {
+      "apply": "",
+      "calendly": "",
+      "linkedin": "",
+      "reviews": "",
+      "personalSite": ""
+    },
+    "order": 41
   }
 ]
