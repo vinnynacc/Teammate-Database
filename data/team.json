@@ -790,5 +790,27 @@
       "personalSite": ""
     },
     "order": 41
+  },
+  {
+    "slug": "alicia-lorenz",
+    "name": "Alicia Lorenz",
+    "role": "lo",
+    "jobTitle": "Branch Manager",
+    "nmls": "NMLS#231573",
+    "phone": "+18564952944",
+    "email": "alorenz@lhloans.com",
+    "photoFile": "Alicia%20Lorenz.png",
+    "states": [
+      "PA",
+      "NJ"
+    ],
+    "links": {
+      "apply": "https://1425476.my1003app.com/231573/register?time=1767118893146",
+      "calendly": "",
+      "linkedin": "",
+      "reviews": "",
+      "personalSite": ""
+    },
+    "order": 42
   }
 ]
