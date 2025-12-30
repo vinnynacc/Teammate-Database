@@ -791,5 +791,32 @@
       "personalSite": ""
     },
     "order": 41
+  },
+  {
+    "order": 42,
+    "slug": "sarah-hallett",
+    "name": "Sarah Hallett",
+    "role": "ops",
+    "jobTitle": "Processor",
+    "nmls": "",
+    "phone": "+17249002309",
+    "email": "shallett@lhloans.com",
+    "photoFile": "Sarah%20Hallett.png",
+    "states": [],
+    "links": {
+      "apply": "",
+      "calendly": "",
+      "linkedin": "",
+      "reviews": "",
+      "personalSite": ""
+    },
+    "bio": "",
+    "stats": {
+      "yearsExp": "10+",
+      "familiesHelped": "500+",
+      "loansFunded": "$100M+",
+      "rating": "4.9"
+    },
+    "addedAt": "2025-12-30T20:26:10.184Z"
   }
 ]
