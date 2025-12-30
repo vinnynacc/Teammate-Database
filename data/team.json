@@ -729,5 +729,26 @@
       "personalSite": ""
     },
     "order": 38
+  },
+  {
+    "slug": "melanie-pollick",
+    "name": "Melanie Pollick",
+    "role": "lo",
+    "jobTitle": "Mortgage Loan Officer",
+    "nmls": "NMLS#1728808",
+    "phone": "+17244805408",
+    "email": "mpollick@lhloans.com",
+    "photoFile": "Melanie%20Pollick.png",
+    "states": [
+      "PA"
+    ],
+    "links": {
+      "apply": "https://1425476.my1003app.com/1728808/register?time=1767105933598",
+      "calendly": "",
+      "linkedin": "",
+      "reviews": "",
+      "personalSite": ""
+    },
+    "order": 39
   }
 ]
