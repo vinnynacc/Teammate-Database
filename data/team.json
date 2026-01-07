@@ -818,5 +818,35 @@
       "rating": "4.9"
     },
     "addedAt": "2025-12-30T20:26:10.184Z"
+  },
+  {
+    "order": 43,
+    "slug": "john-hornacek",
+    "name": "John Hornacek",
+    "role": "lo",
+    "jobTitle": "Mortgage Loan Officer",
+    "nmls": "NMLS#2743466",
+    "phone": "+12019213413",
+    "email": "johnhornacek@equitylendinggroup.com",
+    "photoFile": "John%20Hornacek.png",
+    "states": [
+      "PA",
+      "NJ"
+    ],
+    "links": {
+      "apply": "",
+      "calendly": "",
+      "linkedin": "",
+      "reviews": "",
+      "personalSite": ""
+    },
+    "bio": "",
+    "stats": {
+      "yearsExp": "10+",
+      "familiesHelped": "500+",
+      "loansFunded": "$100M+",
+      "rating": "4.9"
+    },
+    "addedAt": "2026-01-07T20:35:10.343Z"
   }
 ]
