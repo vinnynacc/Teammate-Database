@@ -848,5 +848,34 @@
       "rating": "4.9"
     },
     "addedAt": "2026-01-07T20:35:10.343Z"
+  },
+  {
+    "order": 44,
+    "slug": "dylan-kramer",
+    "name": "Dylan Kramer",
+    "role": "lo",
+    "jobTitle": "Branch Manager",
+    "nmls": "NMLS#224916",
+    "phone": "+16307087088",
+    "email": "dkramer@lhloans.com",
+    "photoFile": "Dylan%20Kramer.png",
+    "states": [
+      "IL"
+    ],
+    "links": {
+      "apply": "https://1425476.my1003app.com/224916/register?time=1700599919933",
+      "calendly": "",
+      "linkedin": "",
+      "reviews": "",
+      "personalSite": ""
+    },
+    "bio": "",
+    "stats": {
+      "yearsExp": "30+",
+      "familiesHelped": "1000",
+      "loansFunded": "$100M",
+      "rating": "5.0"
+    },
+    "addedAt": "2026-02-18T15:04:39.661Z"
   }
 ]
