@@ -904,5 +904,34 @@
       "rating": "4.9"
     },
     "addedAt": "2026-03-10T16:51:16.251Z"
+  },
+  {
+    "order": 46,
+    "slug": "monica-brown",
+    "name": "Monica Brown",
+    "role": "lo",
+    "jobTitle": "Loan Officer",
+    "nmls": "NMLS#1529419",
+    "phone": "+14322135041",
+    "email": "mbrown@lhloans.com",
+    "photoFile": "Monica%20Brown.png",
+    "states": [
+      "TX"
+    ],
+    "links": {
+      "apply": "https://1425476.my1003app.com/1529419/register?time=1700599919933",
+      "calendly": "",
+      "linkedin": "https://www.linkedin.com/in/monica-brown-a33938117/",
+      "reviews": "",
+      "personalSite": ""
+    },
+    "bio": "Monica started in the Mortgage industry in 2005, where she found her passion for helping buyers with homeownership. She is happily raising her twin daughters in Big Spring TX with her husband, Jared. \n\n“Homeownership isn’t just about building equity — it’s about building pride. When you own your home, you see your neighborhood differently. You care a little more about the streets, the schools, the small businesses, and the people next door. You plant roots. You show up. You invest time and energy because it’s yours.”",
+    "stats": {
+      "yearsExp": "10+",
+      "familiesHelped": "500+",
+      "loansFunded": "$100M+",
+      "rating": "4.9"
+    },
+    "addedAt": "2026-03-10T16:55:07.389Z"
   }
 ]
