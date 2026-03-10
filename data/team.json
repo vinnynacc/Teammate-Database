@@ -933,5 +933,34 @@
       "rating": "4.9"
     },
     "addedAt": "2026-03-10T16:55:07.389Z"
+  },
+  {
+    "order": 47,
+    "slug": "jordan-reeser",
+    "name": "Jordan Reeser",
+    "role": "lo",
+    "jobTitle": "Loan Officer",
+    "nmls": "NMLS#861245",
+    "phone": "+15172140483",
+    "email": "jreeser@championlendinggroup.com",
+    "photoFile": "Jordan%20Reeser.png",
+    "states": [
+      "MI"
+    ],
+    "links": {
+      "apply": "https://1425476.my1003app.com/861245/register?time=1772742665669",
+      "calendly": "",
+      "linkedin": "",
+      "reviews": "",
+      "personalSite": ""
+    },
+    "bio": "",
+    "stats": {
+      "yearsExp": "10+",
+      "familiesHelped": "500+",
+      "loansFunded": "$100M+",
+      "rating": "4.9"
+    },
+    "addedAt": "2026-03-10T16:56:40.190Z"
   }
 ]
