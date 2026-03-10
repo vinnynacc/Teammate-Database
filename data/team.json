@@ -877,5 +877,32 @@
       "rating": "5.0"
     },
     "addedAt": "2026-02-18T15:04:39.661Z"
+  },
+  {
+    "order": 45,
+    "slug": "aj-buchin",
+    "name": "AJ Buchin",
+    "role": "ops",
+    "jobTitle": "Processor II",
+    "nmls": "",
+    "phone": "+17249002309",
+    "email": "abuchin@lhloans.com",
+    "photoFile": "AJ%20Buchin.png",
+    "states": [],
+    "links": {
+      "apply": "",
+      "calendly": "",
+      "linkedin": "",
+      "reviews": "",
+      "personalSite": ""
+    },
+    "bio": "In my free time you can usually find me riding my motorcycle or wrenching on my car or bike in the garage. I'm always after the latest modifications. If the weather is not good you can usually find me binge watching tv shows or movies with my girlfriend. I also enjoy trying new restaurants and foods in the area.",
+    "stats": {
+      "yearsExp": "10+",
+      "familiesHelped": "500+",
+      "loansFunded": "$100M+",
+      "rating": "4.9"
+    },
+    "addedAt": "2026-03-10T16:51:16.251Z"
   }
 ]
