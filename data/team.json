@@ -76,25 +76,6 @@
     }
   },
   {
-    "order": 5,
-    "slug": "dana-prill",
-    "name": "Dana Prill",
-    "role": "lead",
-    "jobTitle": "Closing Specialist",
-    "nmls": "NMLS#1754216",
-    "phone": "+17249002307",
-    "email": "dprill@lhloans.com",
-    "photoFile": "Dana%20Prill.png",
-    "states": [],
-    "links": {
-      "apply": "",
-      "calendly": "",
-      "linkedin": "",
-      "reviews": "",
-      "personalSite": ""
-    }
-  },
-  {
     "order": 6,
     "slug": "vinny-naccarelli",
     "name": "Vinny Naccarelli",
