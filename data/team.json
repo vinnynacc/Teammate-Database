@@ -396,15 +396,23 @@
     "nmls": "NMLS#146719",
     "phone": "+14124435265",
     "email": "dgiannetti@lhloans.com",
-    "photoFile": "Dana%20Prill.png",
+    "photoFile": "Dan%20Giannetti.png",
     "states": [],
     "links": {
-      "apply": "",
+      "apply": "https://1425476.my1003app.com/146719/register?time=1759761024832",
       "calendly": "",
       "linkedin": "",
       "reviews": "",
       "personalSite": ""
-    }
+    },
+    "bio": "Daniel Giannetti is a dedicated Loan Officer at Lending Heights Mortgage, committed to helping families achieve their homeownership dreams. With extensive knowledge of the mortgage industry, Daniel provides personalized guidance through every step of the home financing process.\n\nDaniel’s approach combines industry expertise with genuine care for each client’s unique financial situation, ensuring every mortgage solution is tailored to support long-term success.\n\nWhether you’re a first-time homebuyer or looking to refinance, Daniel is here to make your mortgage experience smooth, transparent, and stress-free.",
+    "stats": {
+      "yearsExp": "10+",
+      "familiesHelped": "500+",
+      "loansFunded": "$100M+",
+      "rating": "4.9"
+    },
+    "addedAt": "2026-03-12T15:56:52.387Z"
   },
   {
     "order": 23,
