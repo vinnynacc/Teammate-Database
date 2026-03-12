@@ -672,27 +672,6 @@
     "order": 37
   },
   {
-    "slug": "josh-niehaus",
-    "name": "Josh Niehaus",
-    "role": "lo",
-    "jobTitle": "Loan Officer",
-    "nmls": "NMLS#2624485",
-    "phone": "+19099124607",
-    "email": "jniehaus@lhloans.com",
-    "photoFile": "Josh%20Niehaus.jpg",
-    "states": [
-      "CA"
-    ],
-    "links": {
-      "apply": "",
-      "calendly": "",
-      "linkedin": "",
-      "reviews": "",
-      "personalSite": ""
-    },
-    "order": 38
-  },
-  {
     "slug": "melanie-pollick",
     "name": "Melanie Pollick",
     "role": "lo",
