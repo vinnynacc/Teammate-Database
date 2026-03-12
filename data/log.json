@@ -40,5 +40,11 @@
     "name": "Anthony Curtis",
     "slug": "anthony-curtis",
     "deletedAt": "2026-03-12T15:06:47.855Z"
+  },
+  {
+    "action": "deleted",
+    "name": "Josh Niehaus",
+    "slug": "josh-niehaus",
+    "deletedAt": "2026-03-12T15:07:43.122Z"
   }
 ]
