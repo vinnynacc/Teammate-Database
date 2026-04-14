@@ -57,25 +57,6 @@
     }
   },
   {
-    "order": 4,
-    "slug": "lea-steadman",
-    "name": "Lea Steadman",
-    "role": "lo",
-    "jobTitle": "Senior Loan Officer",
-    "nmls": "NMLS#1482256",
-    "phone": "+17245161899",
-    "email": "lsteadman@lhloans.com",
-    "photoFile": "Lea%20Steadman.png",
-    "states": [],
-    "links": {
-      "apply": "",
-      "calendly": "",
-      "linkedin": "",
-      "reviews": "",
-      "personalSite": ""
-    }
-  },
-  {
     "order": 6,
     "slug": "vinny-naccarelli",
     "name": "Vinny Naccarelli",
