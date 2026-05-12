@@ -64,5 +64,11 @@
     "name": "Melanie Pollick",
     "slug": "melanie-pollick",
     "deletedAt": "2026-05-12T19:10:01.290Z"
+  },
+  {
+    "action": "deleted",
+    "name": "Benji Orlowski",
+    "slug": "benji-orlowski",
+    "deletedAt": "2026-05-12T19:12:12.985Z"
   }
 ]
