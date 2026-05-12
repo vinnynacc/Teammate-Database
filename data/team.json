@@ -152,25 +152,6 @@
     }
   },
   {
-    "order": 11,
-    "slug": "benji-orlowski",
-    "name": "Benji Orlowski",
-    "role": "lo",
-    "jobTitle": "Loan Officer",
-    "nmls": "NMLS#2348120",
-    "phone": "+17249002309",
-    "email": "aorlowski@lhloans.com",
-    "photoFile": "Benji%20Orlowski.png",
-    "states": [],
-    "links": {
-      "apply": "",
-      "calendly": "",
-      "linkedin": "",
-      "reviews": "",
-      "personalSite": ""
-    }
-  },
-  {
     "order": 12,
     "slug": "andrew-slavin",
     "name": "Andrew Slavin",
